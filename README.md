@@ -21,25 +21,25 @@ Como cualquier tratamiento médico, cada paciente debe ser evaluado por los prof
 Nuestro aplicaciones va a ser la cara digital del un centro de estetica.
 Se brindan servicio de:
 
->Depilación definitiva
->Carboxi terapia
->Dermo-Ray
->Cremas Antiage
->Botox
->Micro-needling (dermapen)
->Derma-planning
->Peeling
->PRP (plasma rico en plaquetas)
+- Depilación definitiva
+- Carboxi terapia
+- Dermo-Ray
+- Cremas Antiage
+- Botox
+- Micro-needling (dermapen)
+- Derma-planning
+- Peeling
+- PRP (plasma rico en plaquetas)
 
 **webs de referencia**
 
-- [biozone] (https://www.biozone.com.ar/)<br>
+- (https://www.biozone.com.ar/)<br>
 Seleccionado por los servicios que ofrece
-- [irenebermejo] (https://www.irenebermejo.com/)
+- (https://www.irenebermejo.com/)<br>
 Seleccionado por los servicios que ofrece
-- [dramarialucchesi] (https://dramarialucchesi.com/)
+- (https://dramarialucchesi.com/)<br>
 Seleccionado por la explicación concisa y certera de cada uno de los tratamientos
-- [esteticacirene] (http://esteticacirene.com.ar/medicina-estetica/)
+- (http://esteticacirene.com.ar/medicina-estetica/)<br>
 Seleccionado por la estética y funcionalidad del sitio web
-- [mlemedicinaestetica](https://mlemedicinaestetica.com.ar)
+- (https://mlemedicinaestetica.com.ar)<br>
 Fue seleccionado por la estética que presenta la pagina web.
