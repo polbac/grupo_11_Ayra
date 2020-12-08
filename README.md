@@ -30,3 +30,16 @@ Se brindan servicio de:
 >Derma-planning
 >Peeling
 >PRP (plasma rico en plaquetas)
+
+**webs de referencia**
+
+https://www.biozone.com.ar/
+Seleccionado por los servicios que ofrece
+https://www.irenebermejo.com/
+Seleccionado por los servicios que ofrece
+https://dramarialucchesi.com/
+Seleccionado por la explicación concisa y certera de cada uno de los tratamientos
+http://esteticacirene.com.ar/medicina-estetica/
+Seleccionado por la estética y funcionalidad del sitio web
+https://mlemedicinaestetica.com.ar (a Mauro esta es la que mas le gusta)
+Fue seleccionado por la estética que presenta la pagina web.
