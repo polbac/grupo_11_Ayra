@@ -21,12 +21,12 @@ Como cualquier tratamiento médico, cada paciente debe ser evaluado por los prof
 Nuestro aplicaciones va a ser la cara digital del un centro de estetica.
 Se brindan servicio de:
 
-Depilación definitiva
-Carboxi terapia
-Dermo-Ray
-Cremas Antiage
-Botox
-Micro-needling (dermapen)
-Derma-planning
-Peeling
-PRP (plasma rico en plaquetas)
+>Depilación definitiva
+>Carboxi terapia
+>Dermo-Ray
+>Cremas Antiage
+>Botox
+>Micro-needling (dermapen)
+>Derma-planning
+>Peeling
+>PRP (plasma rico en plaquetas)
