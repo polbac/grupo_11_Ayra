@@ -43,3 +43,6 @@ Seleccionado por la explicación concisa y certera de cada uno de los tratamient
 Seleccionado por la estética y funcionalidad del sitio web
 - (https://mlemedicinaestetica.com.ar)<br>
 Fue seleccionado por la estética que presenta la pagina web.
+
+**Link al Trello**
+- https://trello.com/b/xmiqXHbf/grupo-11-ayra
