@@ -1,0 +1,19 @@
+{
+  "name": "grupo-11-ayra",
+  "version": "1.0.0",
+  "description": "App Ayra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiazMauro/grupo_11_Ayra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiazMauro/grupo_11_Ayra/issues"
+  },
+  "homepage": "https://github.com/DiazMauro/grupo_11_Ayra#readme"
+}
