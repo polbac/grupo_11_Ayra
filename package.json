@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DiazMauro/grupo_11_Ayra/issues"
   },
-  "homepage": "https://github.com/DiazMauro/grupo_11_Ayra#readme"
+  "homepage": "https://github.com/DiazMauro/grupo_11_Ayra#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
