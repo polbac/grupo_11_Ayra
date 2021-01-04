@@ -4,17 +4,16 @@ body {
     height: 100vh;
     font-family: 'Darker Grotesque', sans-serif;
     background-color: white;
-    font-size: 10px;
 }
 
 header{
-    height: 8vh;
+    height: 10vh;
     width: 100vw;
     background-color: white;
 }
 
 .header-image{
-    height: 8vh;
+    height: 10vh;
 }
 
 form{
