@@ -1,0 +1,56 @@
+*{box-sizing: border-box;}
+
+body {
+    height: 100vh;
+    font-family: 'Darker Grotesque', sans-serif;
+    background-color: white;
+}
+
+header{
+    height: 10vh;
+    width: 100vw;
+    background-color: white;
+}
+
+.header-image{
+    height: 10vh;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    text-align: center;
+}
+
+.register-box{
+    border: #696969 .5px solid;
+    background-color:#fec5bb;
+    width: 50%;
+    border-radius: 2px;
+}
+.register-input{
+    font-size: 10px;
+    width: 80%;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: .5px #696969 solid;
+}
+
+.register-input:focus{
+    outline: none;
+    background: linear-gradient(to bottom, transparent, white);
+}
+
+.register-button{
+    background-color: #d8e2dc;
+    border: #696969 .5px solid;
+    padding: 1px 4px 4px;
+    border-radius: 2px;
+}
+
+.register-button:hover{
+    background: linear-gradient(to bottom, #dedede, white);
+}

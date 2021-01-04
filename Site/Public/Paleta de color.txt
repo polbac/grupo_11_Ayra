@@ -1,0 +1,11 @@
+aca estan desmenusados la paleta de color de Ayra
+
+ #959CCB azul
+ #FB8F9C rosa claro
+ #F83E7E rosa oscuro
+ #C85254 ladrillo
+ #ADCAAO verde
+ #CAC28E verde raro
+ #DEDEDE tiza
+ #696969 gris raro
+ #fec5bb rosa del register
