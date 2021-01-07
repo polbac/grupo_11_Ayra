@@ -15,10 +15,6 @@ app.get ('/register', (req, res) =>{
 app.get ('/login', (req, res) =>{
     res.sendFile(path.resolve(__dirname,'./Site/SRC/login.html'))
 })
-<<<<<<< HEAD
-
-=======
->>>>>>> ff497948ae921c36778fff876f1ccf75adc2cca7
 
 
 app.listen (3000, () => 
