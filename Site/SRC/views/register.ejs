@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('./partials/head')  %> 
+    <title>Registro</title>
+    <link rel="stylesheet" href="/Public/CSS/register.css">
+</head>
+<body>
+    <header>
+        <a href="home"><img  class="header-image" src="/Public/img/Logo.png"></a>
+    </header>
+    <!-- _**Como** cliente **quiero** poder registrarme para estar en su base de datos y acceder a mi perfil e historial de compras de una manera 
+    más sencilla y, además, facilitar el proceso de futuras compras._ --> 
+    <form action="/register.ejs " method="POST">
+        <div class="register-box">
+            <h1>Registrate</h1>
+            <i class="fas fa-user"></i>
+            <p>
+                <label for="nombre">Nombre y Apellido</label>
+                <br>
+                <input class="register-input" type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre y apellido aquí"></input>
+            </p>
+            <p>
+                <label for="email">e-mail</label>
+                <br>
+                <input class="register-input"type="email" id="email" name="email" placeholder="Ingresa tu e-mail aquí"></input>
+            </p>
+            <p>
+                <label for="password">Contraseña</label>
+                <br>
+                <input class="register-input"type="password" id="password" name="password" placeholder="Password"></input>
+            </p>
+            <p>
+                <button class="register-button" type="submit">Registrarme</button>
+            </p>
+        </div>
+    </form>
+</body>
+   
+</html>
