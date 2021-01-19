@@ -10,8 +10,8 @@ app.use (express.static(publicPath));
 
 app.use('/', mainRouter);
 
-
-app.listen (process.env.port || 3000, () =>
+console.log('usando puerto', process.env.PORT)
+app.listen (process.env.PORT || 3000, () =>
     console.log('servidor corriendo en 3000!!!')
 );
 
