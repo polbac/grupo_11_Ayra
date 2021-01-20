@@ -4,7 +4,7 @@ const app = express();
 const publicPath = path.resolve(__dirname);
 const mainRouter = require('./routes/mainRouter');
 app.set('view engine', 'ejs');
-app.set('views', './src/views');
+app.set('views', './Site/SRC/views');
 
 app.use (express.static(publicPath));
 

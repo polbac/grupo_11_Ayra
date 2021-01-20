@@ -1,0 +1,51 @@
+Arguments: 
+  /Users/usuario/.nvm/versions/node/v12.19.1/bin/node /Users/usuario/.nvm/versions/node/v12.19.1/bin/yarn
+
+PATH: 
+  /usr/local/opt/php@7.1/sbin:/usr/local/opt/php@7.1/bin:/Users/usuario/.nvm/versions/node/v12.19.1/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.19.1
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26)
+
+npm manifest: 
+  {
+    "name": "grupo-11-ayra",
+    "version": "1.0.0",
+    "description": "App Ayra",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DiazMauro/grupo_11_Ayra.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/DiazMauro/grupo_11_Ayra/issues"
+    },
+    "homepage": "https://github.com/DiazMauro/grupo_11_Ayra#readme",
+    "dependencies": {
+      "ejs": "^3.1.5",
+      "express": "^4.17.1",
+      "nodemon": "^2.0.6"
+    },
+    "devDependencies": {}
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
